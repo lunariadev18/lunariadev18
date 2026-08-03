@@ -68,5 +68,3 @@ Explored post-pandemic CTA ridership trends through interactive dashboards and d
 - 🌐 Portfolio: **https://www.tothecosmos.com**
 
 ---
-
-> *"Using data to solve operational problems and turn insights into action."*
