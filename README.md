@@ -2,7 +2,7 @@
 
 ### Data Analytics • Business Intelligence • IT Operations
 
-I'm an IT professional at **Northwestern University** transitioning into **Data Analytics** by using SQL, Python, and BI tools to solve real business problems.
+I'm an IT Specialist at **Northwestern University** transitioning into **Data Analytics** by using SQL, Python, and BI tools to solve real business problems.
 
 I am currently building analytics projects focused on operational reporting, ETL pipelines, dashboard development, and data-driven decision making.
 
