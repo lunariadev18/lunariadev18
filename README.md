@@ -1,4 +1,4 @@
-# I'm Josh Zullo 
+# I'm Joshua Zullo 
 
 ### Data Analytics • Business Intelligence • IT Operations
 
