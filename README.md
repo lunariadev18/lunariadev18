@@ -8,10 +8,16 @@ I am currently building analytics projects focused on operational reporting, ETL
 
 ---
 
-## 🚀 Currently Working On
+## 📂 Featured Projects
 
-- 📊 Building analytics projects with **SQL, Python, BigQuery, and Looker Studio**
-- 🏎️ Developing **GridStats**, an end-to-end Formula 1 analytics platform
+### 📊 ServiceNow IT Operations Analytics Dashboard
+Analyzed 18 months of classroom AV support data using **Python, SQL, and Looker Studio** to identify recurring operational issues, measure support performance, and recommend infrastructure improvements.
+
+### 🚆 CTA Ridership Recovery Analysis
+Explored post-pandemic CTA ridership trends through interactive dashboards and data visualization to identify recovery patterns and support data-driven transit insights.
+
+### 🏎️ GridStats – Formula 1 Analytics Platform
+Built an end-to-end analytics platform using **Python, BigQuery, SQL, React, and TypeScript** to analyze over 75 years of Formula 1 race history alongside live telemetry data.
 
 ---
 
@@ -37,18 +43,6 @@ I am currently building analytics projects focused on operational reporting, ETL
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A95C?style=for-the-badge&logo=servicenow&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-### 📊 ServiceNow IT Operations Analytics Dashboard
-Analyzed 18 months of classroom AV support data using **Python, SQL, and Looker Studio** to identify recurring operational issues, measure support performance, and recommend infrastructure improvements.
-
-### 🚆 CTA Ridership Recovery Analysis
-Explored post-pandemic CTA ridership trends through interactive dashboards and data visualization to identify recovery patterns and support data-driven transit insights.
-
-### 🏎️ GridStats – Formula 1 Analytics Platform
-Built an end-to-end analytics platform using **Python, BigQuery, SQL, React, and TypeScript** to analyze over 75 years of Formula 1 race history alongside live telemetry data.
 ---
 
 ## 📜 Certifications
